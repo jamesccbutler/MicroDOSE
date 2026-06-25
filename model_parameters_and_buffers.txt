@@ -1,0 +1,28 @@
+=== Checking G parameters ===
+label_emb.weight: torch.float32
+model.0.weight: torch.float32
+model.0.bias: torch.float32
+model.1.weight: torch.float32
+model.1.bias: torch.float32
+model.3.weight: torch.float32
+model.3.bias: torch.float32
+model.4.weight: torch.float32
+model.4.bias: torch.float32
+model.6.weight: torch.float32
+model.6.bias: torch.float32
+=== Checking G buffers ===
+model.1.running_mean: torch.float32
+model.1.running_var: torch.float32
+model.1.num_batches_tracked: torch.int64
+model.4.running_mean: torch.float32
+model.4.running_var: torch.float32
+model.4.num_batches_tracked: torch.int64
+=== Checking D parameters ===
+label_emb.weight: torch.float32
+model.1.weight: torch.float32
+model.1.bias: torch.float32
+model.3.weight: torch.float32
+model.3.bias: torch.float32
+model.5.weight: torch.float32
+model.5.bias: torch.float32
+=== Checking D buffers ===

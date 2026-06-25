@@ -1,0 +1,11 @@
+femai_PRJEB12449_160625/
+data/
+Model_Files/
+__pycache__/
+gh_2.50.0_linux_amd64/
+*.sif
+*.pt
+*.pth
+*.h5
+*.npy
+*.npz

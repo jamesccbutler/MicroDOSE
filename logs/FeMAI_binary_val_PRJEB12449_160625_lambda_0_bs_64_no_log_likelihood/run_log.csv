@@ -1,0 +1,6 @@
+timestamp,exp_name,phase,epochs,elapsed_seconds,cpu,ram_gb,gpu,gpu_memory_gb,device,batch_size,lambda_cls
+2026-06-17 11:19:39,FeMAI_binary_val_PRJEB12449_160625_lambda_0_bs_64_no_log_likelihood,gan_training,10000,6846.09,x86_64,503.37,Tesla V100-PCIE-32GB,31.75,cuda,64,0
+2026-06-17 16:57:25,FeMAI_binary_val_PRJEB12449_160625_lambda_0_bs_64_no_log_likelihood,diffusion_training,200,1742.84,x86_64,503.37,Tesla V100-PCIE-32GB,31.75,cuda,2,500
+2026-06-17 17:35:32,FeMAI_binary_val_PRJEB12449_160625_lambda_0_bs_64_no_log_likelihood,diffusion_generation_batch_1,,2286.24,x86_64,503.37,Tesla V100-PCIE-32GB,31.75,cuda,10000,500
+2026-06-17 18:11:48,FeMAI_binary_val_PRJEB12449_160625_lambda_0_bs_64_no_log_likelihood,diffusion_generation_batch_2,,2175.94,x86_64,503.37,Tesla V100-PCIE-32GB,31.75,cuda,10000,500
+2026-06-17 18:46:43,FeMAI_binary_val_PRJEB12449_160625_lambda_0_bs_64_no_log_likelihood,diffusion_generation_batch_3,,2093.68,x86_64,503.37,Tesla V100-PCIE-32GB,31.75,cuda,10000,500
